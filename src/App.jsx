@@ -47,7 +47,7 @@ useEffect(() => {
 
 
   return (
-    <>
+    <>sdaasdasdasd
     <h1 className='text-fuchsia-200 font-mono text-center text-4xl mb-10 underline underline-offset-8 '>Write per minute</h1>
       <div className=" relative bg-orange-400 text-center w-96 h-96 flex flex-col justify-center rounded-3xl font-mono shadow-gray-900 shadow-xl border border-b-8 border-yellow-300">
         <button className='absolute top-4 left-4 text-stone-900  text-3xl border py-0 px-2 rounded-lg  border-slate-800' onClick={() => handleReset()}>←</button>
