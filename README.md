@@ -1,4 +1,4 @@
-<img src="https://www.svgrepo.com/show/6596/typewriter.svg" width="30%" alt="Logo of the project" align="right">
+<img src="https://www.svgrepo.com/show/6596/typewriter.svg" width="20%" alt="Logo of the project" align="right">
 
 # 🚀 Write per minute
 > Proyecto que sirve para practicar escritura.
